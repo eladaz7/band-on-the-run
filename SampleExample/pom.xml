@@ -35,11 +35,11 @@
         <artifactId>maven-surefire-plugin</artifactId>
         <version>2.19.1</version>
 		<dependencies>
-      		<dependency>
+<!--       		<dependency>
 				<groupId>com.hp.mqm</groupId>
 				<artifactId>surefire-octane</artifactId>
         		<version>12.53.22-SNAPSHOT</version>
-      		</dependency>
+      		</dependency> -->
     	</dependencies>
         <configuration>
           <includes>
